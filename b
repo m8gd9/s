@@ -1,2 +1,2 @@
 vless://9c5bbed1-c4df-482d-91ae-af42d9313034@94.103.3.57:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=geutHV-V65XUyfqlZZ1ulKy06aBLHTTf5_QUG8aBX3U&fp=qq&sni=www.sony.com&sid=7d&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Novosibirsk
-vless://39e4d950-a817-4484-94a6-b4f45b89f849@94.103.3.57:8443?type=ws&encryption=none&path=%2Fupload&host=&security=tls&fp=qq&alpn=h2%2Chttp%2F1.1&sni=sony.com&ech=AFv%2BDQBXAAAgACAwpZ2Cu8RytMKKdxuYiJwjdMKovvpOkZ9dAfS%2FQtJ5QQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAhzb255LmNvbQAA#%F0%9F%87%B7%F0%9F%87%BA%20Novosibirsk%20%231
+vless://39e4d950-a817-4484-94a6-b4f45b89f849@94.103.3.57:8443?type=ws&encryption=none&path=%2Fupload&host=&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Novosibirsk%20%231
